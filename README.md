@@ -1,2 +1,2 @@
-# Projeto-Avaliacao
- Projeto de avaliação de disciplinas na escola
+# Avaliacao
+ Projeto de avaliação de disciplinas na escola usando Java
